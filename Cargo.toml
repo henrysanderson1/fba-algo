@@ -1,0 +1,9 @@
+[package]
+name = "fba-algo"
+version = "0.1.0"
+edition = "2024"
+description = "A small Rust implementation of frequent batch auction clearing"
+repository = "https://github.com/henrysanderson1/fba-algo"
+readme = "README.md"
+
+[dependencies]
